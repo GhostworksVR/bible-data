@@ -1,0 +1,528 @@
+{
+  "version": 1,
+  "translationCount": 8,
+  "chapters": 9512,
+  "verses": 31133,
+  "translations": [
+    {
+      "name": "King James Version",
+      "abbreviation": "kjv",
+      "subtitle": "The Authorized Version",
+      "year": 1611,
+      "description": "First published in 1611 under the sponsorship of King James I of England, the King James Version became one of the most influential English Bible translations. Its distinctive literary style has shaped English-speaking religious life and literature for centuries. The text used by a particular dataset may reflect later standardized editions rather than the original 1611 printing."
+    },
+    {
+      "name": "Amplified Bible",
+      "abbreviation": "amp",
+      "subtitle": "Expanded wording for deeper study",
+      "year": 1965,
+      "description": "The Amplified Bible uses additional words, explanatory phrases and alternate renderings to help readers explore nuances of the underlying biblical languages. Its distinctive bracketed and parenthetical expansions make it especially useful for close reading and comparing interpretations. Publication and revision details depend on the edition in the source data."
+    },
+    {
+      "name": "American Standard Version",
+      "abbreviation": "asv",
+      "subtitle": "A formal English revision",
+      "year": 1901,
+      "description": "Published in 1901, the American Standard Version revised the English Revised Version with input from American scholars. It is known for its relatively literal translation style and historically significant choices of terminology. It remains useful for readers comparing older English renderings of biblical passages."
+    },
+    {
+      "name": "Geneva Bible",
+      "abbreviation": "gnv",
+      "subtitle": "The Bible of the Protestant Reformation",
+      "year": 1560,
+      "description": "First published in 1560, the Geneva Bible was an influential English translation produced by Protestant scholars in Geneva. It became known for its study notes and was widely read before the King James Version."
+    },
+    {
+      "name": "New International Version",
+      "abbreviation": "niv",
+      "subtitle": "Contemporary English translation",
+      "year": 1978,
+      "description": "The New International Version was created by an international team of biblical scholars to balance accuracy with natural, contemporary English. It is widely read for personal study, church use and public reading. Wording varies by edition and revision."
+    },
+    {
+      "name": "New King James Version",
+      "abbreviation": "nkjv",
+      "subtitle": "Traditional style in updated English",
+      "year": 1982,
+      "description": "The New King James Version updates the language of the King James tradition while seeking to preserve much of its cadence and translation approach. It offers a more contemporary reading experience for readers familiar with the Authorized Version."
+    },
+    {
+      "name": "World English Bible",
+      "abbreviation": "web",
+      "subtitle": "A modern public-domain English Bible",
+      "year": 2000,
+      "description": "The World English Bible is a modern English translation based on the American Standard Version and updated using biblical-language source texts. It aims for clear, accessible language while retaining a relatively formal translation style. It is widely used in digital Bible projects."
+    },
+    {
+      "name": "Young's Literal Translation",
+      "abbreviation": "ylt",
+      "subtitle": "A Strictly Literal Translation of the Bible",
+      "year": 1862,
+      "description": "Translated by Robert Young and first published in 1862, with revisions published in 1887 and 1898. Young sought to preserve the grammar, tense and phrasing of the Hebrew and Greek source texts, resulting in a distinctive, highly literal English rendering. Many digital copies reproduce the 1898 revision rather than the first edition."
+    }
+  ],
+  "books": [
+    {
+      "number": 1,
+      "name": "Genesis",
+      "testament": "old",
+      "chapters": 50,
+      "description": "Creation, the fall, the flood, and the beginnings of Israel through the patriarchs."
+    },
+    {
+      "number": 2,
+      "name": "Exodus",
+      "testament": "old",
+      "chapters": 40,
+      "description": "Israel's deliverance from Egypt, the covenant at Sinai, and the tabernacle."
+    },
+    {
+      "number": 3,
+      "name": "Leviticus",
+      "testament": "old",
+      "chapters": 27,
+      "description": "Laws for worship, sacrifice, purity, and holy living."
+    },
+    {
+      "number": 4,
+      "name": "Numbers",
+      "testament": "old",
+      "chapters": 36,
+      "description": "Israel's wilderness journey, censuses, rebellion, and preparation for Canaan."
+    },
+    {
+      "number": 5,
+      "name": "Deuteronomy",
+      "testament": "old",
+      "chapters": 34,
+      "description": "Moses' final speeches renewing the covenant before Israel enters Canaan."
+    },
+    {
+      "number": 6,
+      "name": "Joshua",
+      "testament": "old",
+      "chapters": 24,
+      "description": "Israel's conquest and settlement of the promised land under Joshua."
+    },
+    {
+      "number": 7,
+      "name": "Judges",
+      "testament": "old",
+      "chapters": 21,
+      "description": "Israel's repeated cycles of disobedience, oppression, and deliverance by judges."
+    },
+    {
+      "number": 8,
+      "name": "Ruth",
+      "testament": "old",
+      "chapters": 4,
+      "description": "Ruth's loyalty to Naomi and her place in the ancestry of David."
+    },
+    {
+      "number": 9,
+      "name": "1 Samuel",
+      "testament": "old",
+      "chapters": 31,
+      "description": "Samuel's ministry, Saul's kingship, and David's rise."
+    },
+    {
+      "number": 10,
+      "name": "2 Samuel",
+      "testament": "old",
+      "chapters": 24,
+      "description": "David's reign, triumphs, failures, and family conflicts."
+    },
+    {
+      "number": 11,
+      "name": "1 Kings",
+      "testament": "old",
+      "chapters": 22,
+      "description": "Solomon's reign, the divided kingdom, and the ministries of early prophets."
+    },
+    {
+      "number": 12,
+      "name": "2 Kings",
+      "testament": "old",
+      "chapters": 25,
+      "description": "The decline and exile of Israel and Judah amid prophetic warnings."
+    },
+    {
+      "number": 13,
+      "name": "1 Chronicles",
+      "testament": "old",
+      "chapters": 29,
+      "description": "Genealogies and David's reign, emphasizing worship and temple preparations."
+    },
+    {
+      "number": 14,
+      "name": "2 Chronicles",
+      "testament": "old",
+      "chapters": 36,
+      "description": "Solomon's temple, Judah's kings, exile, and the decree to return."
+    },
+    {
+      "number": 15,
+      "name": "Ezra",
+      "testament": "old",
+      "chapters": 10,
+      "description": "The return from exile and rebuilding of the temple and community."
+    },
+    {
+      "number": 16,
+      "name": "Nehemiah",
+      "testament": "old",
+      "chapters": 13,
+      "description": "Jerusalem's walls are rebuilt and the covenant community is renewed."
+    },
+    {
+      "number": 17,
+      "name": "Esther",
+      "testament": "old",
+      "chapters": 10,
+      "description": "Esther risks her life to save the Jewish people in Persia."
+    },
+    {
+      "number": 18,
+      "name": "Job",
+      "testament": "old",
+      "chapters": 42,
+      "description": "A righteous sufferer's trials and questions about justice and divine wisdom."
+    },
+    {
+      "number": 19,
+      "name": "Psalms",
+      "testament": "old",
+      "chapters": 150,
+      "description": "Prayers and songs of praise, lament, thanksgiving, and trust in God."
+    },
+    {
+      "number": 20,
+      "name": "Proverbs",
+      "testament": "old",
+      "chapters": 31,
+      "description": "Sayings about wisdom, character, relationships, and righteous living."
+    },
+    {
+      "number": 21,
+      "name": "Ecclesiastes",
+      "testament": "old",
+      "chapters": 12,
+      "description": "Reflections on life's transience, work, pleasure, and reverence for God."
+    },
+    {
+      "number": 22,
+      "name": "Song of Solomon",
+      "testament": "old",
+      "chapters": 8,
+      "description": "Poetic celebration of love, longing, and mutual devotion."
+    },
+    {
+      "number": 23,
+      "name": "Isaiah",
+      "testament": "old",
+      "chapters": 66,
+      "description": "Judgment, hope, the promised servant, and the restoration of God's people."
+    },
+    {
+      "number": 24,
+      "name": "Jeremiah",
+      "testament": "old",
+      "chapters": 52,
+      "description": "Warnings to Judah, Jerusalem's fall, and promises of a new covenant."
+    },
+    {
+      "number": 25,
+      "name": "Lamentations",
+      "testament": "old",
+      "chapters": 5,
+      "description": "Poems mourning Jerusalem's destruction while seeking hope in mercy."
+    },
+    {
+      "number": 26,
+      "name": "Ezekiel",
+      "testament": "old",
+      "chapters": 48,
+      "description": "Visions of judgment, God's glory, personal responsibility, and restoration."
+    },
+    {
+      "number": 27,
+      "name": "Daniel",
+      "testament": "old",
+      "chapters": 12,
+      "description": "Faithfulness in exile and visions of earthly kingdoms and God's rule."
+    },
+    {
+      "number": 28,
+      "name": "Hosea",
+      "testament": "old",
+      "chapters": 14,
+      "description": "Hosea's marriage illustrates Israel's unfaithfulness and God's enduring love."
+    },
+    {
+      "number": 29,
+      "name": "Joel",
+      "testament": "old",
+      "chapters": 3,
+      "description": "A locust plague frames a call to repentance and the day of the Lord."
+    },
+    {
+      "number": 30,
+      "name": "Amos",
+      "testament": "old",
+      "chapters": 9,
+      "description": "Warnings against injustice and empty worship, with hope for restoration."
+    },
+    {
+      "number": 31,
+      "name": "Obadiah",
+      "testament": "old",
+      "chapters": 1,
+      "description": "A prophecy of judgment against Edom and the vindication of Zion."
+    },
+    {
+      "number": 32,
+      "name": "Jonah",
+      "testament": "old",
+      "chapters": 4,
+      "description": "A reluctant prophet learns of God's mercy toward Nineveh."
+    },
+    {
+      "number": 33,
+      "name": "Micah",
+      "testament": "old",
+      "chapters": 7,
+      "description": "Judgment on corrupt leaders and hope for a ruler from Bethlehem."
+    },
+    {
+      "number": 34,
+      "name": "Nahum",
+      "testament": "old",
+      "chapters": 3,
+      "description": "A prophecy announcing Nineveh's downfall."
+    },
+    {
+      "number": 35,
+      "name": "Habakkuk",
+      "testament": "old",
+      "chapters": 3,
+      "description": "A dialogue about injustice, faith, and God's coming judgment."
+    },
+    {
+      "number": 36,
+      "name": "Zephaniah",
+      "testament": "old",
+      "chapters": 3,
+      "description": "The day of the Lord brings judgment and a promise of renewal."
+    },
+    {
+      "number": 37,
+      "name": "Haggai",
+      "testament": "old",
+      "chapters": 2,
+      "description": "A call to rebuild the temple after the return from exile."
+    },
+    {
+      "number": 38,
+      "name": "Zechariah",
+      "testament": "old",
+      "chapters": 14,
+      "description": "Visions urging repentance, rebuilding, and hope for a future king."
+    },
+    {
+      "number": 39,
+      "name": "Malachi",
+      "testament": "old",
+      "chapters": 4,
+      "description": "A call to covenant faithfulness and anticipation of the Lord's messenger."
+    },
+    {
+      "number": 40,
+      "name": "Matthew",
+      "testament": "new",
+      "chapters": 28,
+      "description": "Jesus' life, teachings, death, and resurrection, emphasizing the promised Messiah."
+    },
+    {
+      "number": 41,
+      "name": "Mark",
+      "testament": "new",
+      "chapters": 16,
+      "description": "Jesus' ministry, suffering, death, and resurrection in a fast-paced account."
+    },
+    {
+      "number": 42,
+      "name": "Luke",
+      "testament": "new",
+      "chapters": 24,
+      "description": "Jesus' life and compassion, from his birth to resurrection and ascension."
+    },
+    {
+      "number": 43,
+      "name": "John",
+      "testament": "new",
+      "chapters": 21,
+      "description": "Jesus' signs and teachings reveal his identity as the Son of God."
+    },
+    {
+      "number": 44,
+      "name": "Acts",
+      "testament": "new",
+      "chapters": 28,
+      "description": "The Holy Spirit empowers the early church and the spread of the gospel."
+    },
+    {
+      "number": 45,
+      "name": "Romans",
+      "testament": "new",
+      "chapters": 16,
+      "description": "Paul explains sin, salvation by faith, grace, and transformed living."
+    },
+    {
+      "number": 46,
+      "name": "1 Corinthians",
+      "testament": "new",
+      "chapters": 16,
+      "description": "Paul addresses division, worship, spiritual gifts, and resurrection."
+    },
+    {
+      "number": 47,
+      "name": "2 Corinthians",
+      "testament": "new",
+      "chapters": 13,
+      "description": "Paul defends his ministry and teaches reconciliation and generous giving."
+    },
+    {
+      "number": 48,
+      "name": "Galatians",
+      "testament": "new",
+      "chapters": 6,
+      "description": "Freedom through faith in Christ rather than reliance on the law."
+    },
+    {
+      "number": 49,
+      "name": "Ephesians",
+      "testament": "new",
+      "chapters": 6,
+      "description": "Unity in Christ, salvation by grace, and life within the church."
+    },
+    {
+      "number": 50,
+      "name": "Philippians",
+      "testament": "new",
+      "chapters": 4,
+      "description": "Joy, humility, perseverance, and contentment in Christ."
+    },
+    {
+      "number": 51,
+      "name": "Colossians",
+      "testament": "new",
+      "chapters": 4,
+      "description": "Christ's supremacy and its implications for Christian conduct."
+    },
+    {
+      "number": 52,
+      "name": "1 Thessalonians",
+      "testament": "new",
+      "chapters": 5,
+      "description": "Encouragement toward holiness and hope in Christ's return."
+    },
+    {
+      "number": 53,
+      "name": "2 Thessalonians",
+      "testament": "new",
+      "chapters": 3,
+      "description": "Clarification about the day of the Lord and steadfast living."
+    },
+    {
+      "number": 54,
+      "name": "1 Timothy",
+      "testament": "new",
+      "chapters": 6,
+      "description": "Guidance on church leadership, teaching, worship, and care."
+    },
+    {
+      "number": 55,
+      "name": "2 Timothy",
+      "testament": "new",
+      "chapters": 4,
+      "description": "Encouragement to remain faithful and guard sound teaching."
+    },
+    {
+      "number": 56,
+      "name": "Titus",
+      "testament": "new",
+      "chapters": 3,
+      "description": "Instructions for church leadership and good works in Crete."
+    },
+    {
+      "number": 57,
+      "name": "Philemon",
+      "testament": "new",
+      "chapters": 1,
+      "description": "Paul appeals for mercy and reconciliation for Onesimus."
+    },
+    {
+      "number": 58,
+      "name": "Hebrews",
+      "testament": "new",
+      "chapters": 13,
+      "description": "Christ's superiority and the call to persevere in faith."
+    },
+    {
+      "number": 59,
+      "name": "James",
+      "testament": "new",
+      "chapters": 5,
+      "description": "Practical instruction on living out faith through actions and wisdom."
+    },
+    {
+      "number": 60,
+      "name": "1 Peter",
+      "testament": "new",
+      "chapters": 5,
+      "description": "Hope and holy living amid suffering and persecution."
+    },
+    {
+      "number": 61,
+      "name": "2 Peter",
+      "testament": "new",
+      "chapters": 3,
+      "description": "Warnings against false teachers and encouragement to grow in faith."
+    },
+    {
+      "number": 62,
+      "name": "1 John",
+      "testament": "new",
+      "chapters": 5,
+      "description": "Love, truth, obedience, and assurance of eternal life in Christ."
+    },
+    {
+      "number": 63,
+      "name": "2 John",
+      "testament": "new",
+      "chapters": 1,
+      "description": "A brief appeal to live in truth and love while resisting deception."
+    },
+    {
+      "number": 64,
+      "name": "3 John",
+      "testament": "new",
+      "chapters": 1,
+      "description": "Commendation of hospitality and warning against domineering leadership."
+    },
+    {
+      "number": 65,
+      "name": "Jude",
+      "testament": "new",
+      "chapters": 1,
+      "description": "A call to defend the faith against corrupt and divisive teachers."
+    },
+    {
+      "number": 66,
+      "name": "Revelation",
+      "testament": "new",
+      "chapters": 22,
+      "description": "Apocalyptic visions of Christ's victory, judgment, and new creation."
+    }
+  ]
+}
