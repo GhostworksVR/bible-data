@@ -1845,5 +1845,38 @@
         21
       ]
     }
-  ]
+  ],
+  "prayers": {
+    "count": 146,
+    "categories": [
+      {
+        "id": "faith",
+        "count": 36
+      },
+      {
+        "id": "guidance",
+        "count": 21
+      },
+      {
+        "id": "intercession",
+        "count": 29
+      },
+      {
+        "id": "mercy",
+        "count": 13
+      },
+      {
+        "id": "peace",
+        "count": 14
+      },
+      {
+        "id": "praise",
+        "count": 21
+      },
+      {
+        "id": "protection",
+        "count": 12
+      }
+    ]
+  }
 }
