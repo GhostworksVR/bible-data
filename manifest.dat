@@ -1851,31 +1851,191 @@
     "categories": [
       {
         "id": "faith",
-        "count": 36
+        "count": 36,
+        "titles": [
+          "A Pure Heart",
+          "Communion with God",
+          "For a Pure Heart",
+          "For Charity",
+          "For Christian Graces",
+          "For Christ’s Presence",
+          "For Entire Love",
+          "For Goodness",
+          "For Grace",
+          "For Growth in Grace",
+          "For Heavenly-Mindedness",
+          "For Illumination",
+          "For Increased Godly Knowledge",
+          "For Love of God",
+          "For Love of God’s Law",
+          "For Mercy and Grace",
+          "For More Love",
+          "For Obedience and Love",
+          "For Perfect Love",
+          "For Perfection",
+          "For Perseverance",
+          "For Refreshment",
+          "For Salvation",
+          "For Steadfastness",
+          "For Stewardship",
+          "For The Holy Spirit",
+          "For the Holy Spirit",
+          "For Thy Presence",
+          "For True Joy",
+          "Obligation to Others",
+          "Perfect Love",
+          "Sanctify Us, O Lord",
+          "Stewardship",
+          "The Holy Spirit",
+          "To Serve Thee",
+          "To Witness for Christ"
+        ]
       },
       {
         "id": "guidance",
-        "count": 21
+        "count": 21,
+        "titles": [
+          "A Morning Prayer",
+          "For a Knowledge of God’s Will",
+          "For Acceptable Petitions",
+          "For Enlightenment",
+          "For God’s Guidance",
+          "For Good Use of Blessings",
+          "For Illumination",
+          "For Light",
+          "For Light",
+          "For Light",
+          "For Light",
+          "For Light",
+          "For Light",
+          "For Light and Guidance",
+          "For Light and Guidance",
+          "For Perfect Light",
+          "For Right Blessings",
+          "For Right Living",
+          "For Thy Will",
+          "For Trust and Fuller Knowledge",
+          "Prayer to the Teacher"
+        ]
       },
       {
         "id": "intercession",
-        "count": 29
+        "count": 29,
+        "titles": [
+          "A Morning Prayer",
+          "A Prayer for Spiritual Blessings",
+          "For All Kings and Rulers",
+          "For All People",
+          "For Blessing",
+          "For Blessings",
+          "For Blessings",
+          "For Blessings",
+          "For Christ’s Servants Everywhere",
+          "For Communicants",
+          "For Converts in Mission Fields",
+          "For Friends and Relations",
+          "For Friends and Relatives",
+          "For Ministers",
+          "For National Peace",
+          "For Rulers and Governors",
+          "For Spiritual Desires",
+          "For the Faithful",
+          "For the Peace of Christ’s Flock",
+          "For the Sorrowing",
+          "For the Spread of Christianity",
+          "For Those Gathered in Worship",
+          "For Those Who Minister",
+          "For Two or Three",
+          "Intercession",
+          "Intercession",
+          "Jesus Prays From the Cross",
+          "Jesus’ High Priestly Prayer",
+          "Patience and Longsuffering"
+        ]
       },
       {
         "id": "mercy",
-        "count": 13
+        "count": 13,
+        "titles": [
+          "Confession of Sin",
+          "For Cleansing",
+          "For Forgiveness",
+          "For Forgiveness",
+          "For Freedom From Sin",
+          "For Grace",
+          "For Mercy",
+          "For Pardon",
+          "For Pardon",
+          "For Purity",
+          "For Soul Cleansing",
+          "On a Fast-Day",
+          "Thanksgiving and Prayer for Pardon"
+        ]
       },
       {
         "id": "peace",
-        "count": 14
+        "count": 14,
+        "titles": [
+          "A Morning Prayer",
+          "An Evening Prayer",
+          "An Evening Prayer",
+          "An Evening Prayer",
+          "An Evening Thanksgiving",
+          "Evening Prayer",
+          "For Peace",
+          "For Refreshment",
+          "For Thy Peace",
+          "General Petitions",
+          "Prayer of Stephen",
+          "Refuge and Peace",
+          "Rest in Thee",
+          "The Prayer of Simeon"
+        ]
       },
       {
         "id": "praise",
-        "count": 21
+        "count": 21,
+        "titles": [
+          "A Dying Prayer of Polycarp, the Martyr",
+          "A Morning Prayer",
+          "A Table Grace",
+          "A Table Grace",
+          "Adoration",
+          "After the Holy Communion",
+          "Before the Holy Communion",
+          "Begotten to a Lively Hope",
+          "For Joy and Gladness",
+          "For the First-Fruits",
+          "For the Holy Communion",
+          "Invocation",
+          "Morning Prayer",
+          "On the Lord’s Day",
+          "Praise",
+          "Praise",
+          "Prayer Before Partaking of the Holy Sacrament",
+          "Table Grace",
+          "Thanks For Thy Mercies",
+          "The Magnificat",
+          "The Thanksgiving for the Morning"
+        ]
       },
       {
         "id": "protection",
-        "count": 12
+        "count": 12,
+        "titles": [
+          "A Morning Prayer",
+          "A Prayer for Divine Help",
+          "A Prayer for the Privilege of Martyrdom",
+          "For a Safe Voyage",
+          "For Divine Strength",
+          "For Grace and Protection",
+          "For Peace",
+          "For Protection",
+          "For Protection",
+          "For Protection",
+          "For Refreshment",
+          "Persecuted for Righteousness’ Sake"
+        ]
       }
     ]
   }
