@@ -1,5 +1,11 @@
 {
   "version": 1,
+  "world": {
+    "id": "wrld_0a91b1ac-631f-425d-b8af-91c8071138db",
+    "name": "Bible Reader VR",
+    "author": "ぼうれい",
+    "discord": "RikuVRC"
+  },
   "translationCount": 8,
   "chapters": 9512,
   "verses": 31133,
